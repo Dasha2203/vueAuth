@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Darya",
+      "lastName": "Korbut",
+      "age": 21,
+      "email": "test@gmail.com",
+      "password": "test"
+    },
+    {
+      "id": 2,
+      "name": "Katya",
+      "lastName": "Pashuk",
+      "age": 22,
+      "email": "test1@gmail.com",
+      "password": "test1"
+    },
+    {
+      "id": 3,
+      "name": "Darya",
+      "lastName": "Korbut",
+      "age": 24,
+      "email": "test@gmail.com",
+      "password": "test1"
+    }
+  ]
+}
